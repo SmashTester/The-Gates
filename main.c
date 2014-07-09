@@ -177,11 +177,20 @@ void comando(player *jogador, char **mapa){
 int main(){
 
 	player jogador;
+	
 
     system("mode 80,40");
 	
 	char **mapa = load_map(&jogador); // Define um array bidimensional e chama o carregamento do mapa.
 
+	int zona,i;	
+
+	FILE *arquivo = fopen("arquivo.txt", "r");
+	
+	fscanf(arquivo, "%d", &zona);
+	
+	fpos_t local[zona]; // Cria um vetor de posições no de mapas.
+	
 
 	while(1){
 		system("cls");
