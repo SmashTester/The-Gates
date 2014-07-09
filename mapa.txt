@@ -1,0 +1,30 @@
+###############################################################################
+#   CC              TTTTTTTTTTTTTTTTTTTTT                                     #
+#   CC                TTT  TTTTTTTTTT                                         #
+#   CC                       TTTTTTTTTTTT                                     #
+#   CCCCCCCCCCCCC        CC   TTTTTTTTT                    /.\_\              #
+#              CCC       CC     TTTTTTT                    |P|"|              #
+#               CCC      CCC      TTTTTT                    C                 #
+#                CCC    CCCC       CC                       C                 #
+#                CCCCCCCCCCC       CC                       C                 #
+#                         CC       CC                       C                 #
+#                         CCCCCCCCCCC                      CC                 #
+#                    CCCCCCC                              CC                  #
+#                    CC          CCCCCCCCCCCCCCCCCCCCCCCCCC                   #
+#                    CC       CCCCCCCCCCCCCCC                                 #
+#                    CCCCCCCCCCCCCCCCCCCCCCC                                  #
+#                               CCCC                                       RRR#
+#                               CC                                      RRRRR #
+#             X               CCCC                                   RRRRRRR  #
+#                             CC                                  RRRRRRCC    #
+#                             CC                                 RRCCCCC      #
+#               CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC         #
+#               CCCCCCCCCCCCCCCC                                              #
+#             CCCC                                                            #
+#             CC                                                              #
+#             CC                                                              #
+#             CC                                                              #
+#             CC                                                              #
+#             CC                                                              #
+#             CC                                                              #
+###############################################################################
