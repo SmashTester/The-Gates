@@ -114,7 +114,7 @@ char **load_map(player *jogador){
 
 	char **mapa = (char**) malloc(MAP_HEIGHT*sizeof(char*));
 
-	FILE *arquivo = fopen("mapa.txt", "r");
+	FILE *arquivo = fopen("map.txt", "r");
 
 	for(y=0; y<30;y++){
 		mapa[y] = (char*) malloc(MAP_WIDTH*sizeof(char));
